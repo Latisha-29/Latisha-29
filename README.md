@@ -61,11 +61,10 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:latishasaxena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/latisha-saxena-900402316"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://github.com/Latisha-29"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/latisha-saxena-900402316"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32"/></a>
+  <a href="mailto:latishasaxena@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32"/></a>
+  <a href="https://github.com/Latisha-29"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="32"/></a>
 </p>
-
 ---
 
 <p align="center">
