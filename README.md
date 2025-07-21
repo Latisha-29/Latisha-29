@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px" />
 </p>
 
-<h1 align="center">Hey, I'm Latisha Saxena 👋</h1>
+<h1 align="center">Hey, I'm Latisha Saxena 💌 </h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast | </h3>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 
 
-### 📬 Connect With Me
+### 📩 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/latisha-saxena-900402316"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32"/></a>
