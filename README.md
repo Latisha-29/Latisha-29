@@ -45,25 +45,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=latisha-29&theme=radical&margin-w=15&no-frame=true" />
-</p>
-
----
-
-### 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/latisha-29/latisha-29/output/github-contribution-grid-snake.svg" />
-</p>
-
-> 📝 To enable this animation:
-> - Create a branch called `output`
-> - Use GitHub Action like [Platane/snk](https://github.com/Platane/snk) (I can set this up if you want)
-
----
 
 ### 🌟 Featured Projects
 
@@ -78,8 +59,8 @@
 ### 🧑‍💼 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/latisha-saxena" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
-  <a href="mailto:latisha@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
+  <a href="https://www.linkedin.com/in/latisha-saxena-900402316/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
+  <a href="mailto:latishasaxena@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
   <a href="https://github.com/Latisha-29"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="30"/></a>
 </p>
 
