@@ -1,16 +1,12 @@
-<!-- 💻 GitHub Coder Profile for Latisha Saxena -->
+<!-- 💖 Latisha Saxena | Professional Girly-Coder GitHub README -->
 
-<!-- Background Animation -->
-<div align="center" style="position: relative; z-index: 0;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="position:absolute; top:0; left:0; width:100%; z-index:-1;" alt="snake-animation" />
-</div>
-
+<!-- 🌸 Custom Girl Coder Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px" />
+  <img src="https://raw.githubusercontent.com/Latisha-29/Latisha-29/main/assets/girl-coder-banner.png" alt="Girl Coder Banner" width="100%" height="280px" />
 </p>
 
-<h1 align="center">Hey, I'm Latisha Saxena 💌 </h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast | </h3>
+<h1 align="center">Hey, I'm Latisha Saxena 💌</h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FACC&center=true&vCenter=true&width=450&lines=Building+cool+things+with+code;React+%7C+Next.js+%7C+MongoDB+%7C+AI%2FML;Passionate+Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
@@ -34,6 +30,7 @@
 | **🌪️ DisasterLens** | PyTorch, Scikit-learn | GAN-based disaster forecasting model |
 | **🔖 Link Saver App** | Next.js, MongoDB, Tailwind, Jina AI | Save, tag & summarize web links intelligently |
 
+---
 
 ### 📊 GitHub Stats
 
@@ -64,6 +61,7 @@
   <a href="mailto:latishasaxena@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32"/></a>
   <a href="https://github.com/Latisha-29"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="32"/></a>
 </p>
+
 ---
 
 <p align="center">
