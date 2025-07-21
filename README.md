@@ -2,7 +2,7 @@
 
 <!-- ✨ Animated Girl Coder Banner -->
 <p align="center">
-  <img src="https://tse4.mm.bing.net/th/id/OIP.QTvTsWlXDrSh-5i4Cfv2MQHaEK?pid=Api&P=0&h=180="Girl Coder Banner" width="100%" height="280px" />
+  <img src="https://i.pinimg.com/1200x/d7/63/e0/d763e03e87e9ae7841ff5990c299dd5e.jpg="Girl Coder Banner" width="100%" height="280px" />
 </p>
 
 <h1 align="center">Hey, I'm Latisha Saxena 💌 </h1>
