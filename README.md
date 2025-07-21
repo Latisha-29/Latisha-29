@@ -1,62 +1,73 @@
-<!-- 🌸 Latisha Saxena | Professional Girly-Coder GitHub README -->
+<!-- 💻 GitHub Coder Profile for Latisha Saxena -->
 
-<!-- 🚀 GIRL CODER BACKGROUND GIF -->
+<!-- Background Animation -->
+<div align="center" style="position: relative; z-index: 0;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="position:absolute; top:0; left:0; width:100%; z-index:-1;" alt="snake-animation" />
+</div>
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ff/4b/e0/ff4be032019529229a394ca0b7f6f7d4.gif" width="100%" height="280px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px" />
 </p>
 
-<h1 align="center">Hi 👋 I’m Latisha Saxena!</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 ML/AI Researcher | 🎓 GGSIPU '27</h3>
+<h1 align="center">Hey, I'm Latisha Saxena 👋</h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast | </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=460&lines=AI+%26+ML+Engineer+in+Training;Full-Stack+Builder+with+Flair;React+%7C+Next.js+%7C+Node+%7C+MongoDB;Loves+Tech+and+Design+%F0%9F%92%96" />
-</p>
-
----
-
-
-
-### 🛠️ Skills I Code With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,nodejs,mongodb,tailwind,html,css,flask,postgres,docker,tensorflow,pytorch,figma,git,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FACC&center=true&vCenter=true&width=450&lines=Building+cool+things+with+code;React+%7C+Next.js+%7C+MongoDB+%7C+AI%2FML;Passionate+Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💖 Featured Work
+### 🛠️ Tech Stack
 
-| 💼 Project | Tech | Summary |
-|-----------|------|---------|
-| 🩺 **GAN-based Diabetes Prediction** | PyTorch, GANs | Boosted ML accuracy via synthetic data (Paper Published) |
-| 🌪️ **DisasterLens AI** | GANs, NumPy | Forecasts earthquakes/floods using GAN-enhanced learning |
-| 🔖 **AI Link Saver App** | Next.js, MongoDB | Save, tag, summarize URLs using AI + Tailwind dashboard |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,tailwind,react,nextjs,nodejs,flask,postgres,mongodb,firebase,docker,tensorflow,pytorch,git,vscode,linux" />
+</p>
 
 ---
 
+### 🚀 Featured Projects
+
+| 💡 Project | Tech Stack | Summary |
+|-----------|------------|---------|
+| **🩺 Diabetes Prediction w/ GANs** | Python, PyTorch, GANs | Synthetic data + ML models for disease classification (2025 Published) |
+| **🌪️ DisasterLens** | PyTorch, Scikit-learn | GAN-based disaster forecasting model |
+| **🔖 Link Saver App** | Next.js, MongoDB, Tailwind, Jina AI | Save, tag & summarize web links intelligently |
 
 
-### 📈 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Latisha-29&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Latisha-29&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latisha-29&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 ---
 
-
-
-
-
-### 💌 Let's Connect
+### 📈 Language & Contributions
 
 <p align="center">
-  <a href="mailto:latishasaxena@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/latisha-saxena-900402316"><img src="https://img.shields.io/badge/LinkedIn-purple?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Latisha-29"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latisha-29&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Latisha-29&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-<p align="center"><strong>💻 Code with elegance. Create with logic. Lead with 💖.</strong></p>
+
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:latishasaxena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/latisha-saxena-900402316"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://github.com/Latisha-29"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <strong>“Think it. Code it. Ship it. Repeat.”</strong>
+</p>
