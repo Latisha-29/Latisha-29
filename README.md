@@ -1,8 +1,8 @@
-<!-- 💖 Latisha Saxena | Professional Girly-Coder GitHub README -->
+<!-- 💖 Latisha Saxena | Coder Girl GitHub README -->
 
-<!-- 🌸 Custom Girl Coder Banner -->
+<!-- 👩‍💻 Anime-Style Girl Coder Banner (LIVE LINK) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Latisha-29/Latisha-29/main/assets/girl-coder-banner.png" alt="Girl Coder Banner" width="100%" height="280px" />
+  <img src="https://i.imgur.com/hKZZYkB.jpg" alt="Girl Coder Banner" width="100%" height="300px" />
 </p>
 
 <h1 align="center">Hey, I'm Latisha Saxena 💌</h1>
@@ -52,7 +52,13 @@
 
 ---
 
+### 📫 Contribution Snake 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Latisha-29/Latisha-29/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ### 📩 Connect With Me
 
