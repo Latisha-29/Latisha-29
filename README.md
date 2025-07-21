@@ -1,70 +1,78 @@
-<!-- GitHub Profile README -->
+<!-- GitHub Profile REA<!-- 💻 GitHub Coder Profile for Latisha Saxena -->
 
-<h1 align="center">Hey there 👋, I'm Latisha Saxena!</h1>
-<h3 align="center">🚀 Developer | 💡 Problem Solver | 👩‍💻 AI/ML Explorer | 🌐 Full-Stack Web Enthusiast</h3>
+<!-- Background Animation -->
+<div align="center" style="position: relative; z-index: 0;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" style="position:absolute; top:0; left:0; width:100%; z-index:-1;" alt="snake-animation" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;MERN+Stack+Developer;Machine+Learning+Practitioner;Always+learning+new+things&center=true&width=500&height=45">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px" />
+</p>
+
+<h1 align="center">Hey, I'm Latisha Saxena 👋</h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🎓 GGSIPU '27</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FACC&center=true&vCenter=true&width=450&lines=Building+cool+things+with+code;React+%7C+Next.js+%7C+MongoDB+%7C+AI%2FML;Passionate+Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔥 Stats That Speak Louder Than Words
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latisha-29&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latisha-29&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latisha-29&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,tailwind,react,nextjs,nodejs,flask,postgres,mongodb,firebase,docker,tensorflow,pytorch,git,vscode,linux" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Featured Projects
+
+| 💡 Project | Tech Stack | Summary |
+|-----------|------------|---------|
+| **🩺 Diabetes Prediction w/ GANs** | Python, PyTorch, GANs | Synthetic data + ML models for disease classification (2025 Published) |
+| **🌪️ DisasterLens** | PyTorch, Scikit-learn | GAN-based disaster forecasting model |
+| **🔖 Link Saver App** | Next.js, MongoDB, Tailwind, Jina AI | Save, tag & summarize web links intelligently |
+
+---
+
+
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,cpp,java,git,github,vscode,tailwind,figma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Latisha-29&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Latisha-29&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 ---
 
-### 🧠 Currently Working On:
-- 🚀 Building full-stack projects using **Next.js + MongoDB**
-- 🤖 Exploring **Generative AI** (LLMs & GANs)
-- 📘 Preparing for coding interviews & system design
-
----
-
-### 🧩 My GitHub Activity Graph
+### 📈 Language & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=latisha-29&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latisha-29&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Latisha-29&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 
-### 🌟 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🔖 Link Saver Dashboard](https://github.com/Latisha-29/link-saver) | Save & summarize your links with AI | `Next.js`, `Tailwind`, `MongoDB`, `Jina AI` |
-| [📊 ML Accuracy Analyzer](https://github.com/Latisha-29/ml-evaluator) | Compares accuracy of ML algorithms | `Scikit-learn`, `GAN`, `Pandas`, `Matplotlib` |
-| [💬 ChatGPT Clone UI](https://github.com/Latisha-29/chatgpt-ui) | Chatbot frontend using OpenAI APIs | `React`, `Tailwind`, `OpenAI API` |
 
----
 
-### 🧑‍💼 Let's Connect!
+### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/latisha-saxena-900402316/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
-  <a href="mailto:latishasaxena@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
-  <a href="https://github.com/Latisha-29"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="30"/></a>
+  <a href="mailto:latishasaxena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/latisha-saxena-900402316"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://github.com/Latisha-29"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center"><b>“Build things you're proud of.”</b></p>
-<p align="center">✨ Thank you for visiting! ✨</p>
+<p align="center">
+  <strong>“Think it. Code it. Ship it. Repeat.”</strong>
+</p>
