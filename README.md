@@ -1,11 +1,11 @@
-<!-- 💖 Latisha Saxena | Coder Girl GitHub README -->
+<!-- 💻 GitHub Coder Profile for Latisha Saxena -->
 
-<!-- 👩‍💻 Anime-Style Girl Coder Banner (LIVE LINK) -->
+<!-- ✨ Animated Girl Coder Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/hKZZYkB.jpg" alt="Girl Coder Banner" width="100%" height="300px" />
+  <img src="https://i.imgur.com/hKZZYkB.jpg" alt="Girl Coder Banner" width="100%" height="280px" />
 </p>
 
-<h1 align="center">Hey, I'm Latisha Saxena 💌</h1>
+<h1 align="center">Hey, I'm Latisha Saxena 💌 </h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 AI/ML Enthusiast</h3>
 
 <p align="center">
@@ -43,19 +43,11 @@
 ### 📈 Language & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latisha-29&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latisha-29&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Latisha-29&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 📫 Contribution Snake 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Latisha-29/Latisha-29/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Latisha-29&theme=github-compact&hide_border=true" width="90%" />
 </p>
 
 ---
